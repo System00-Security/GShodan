@@ -7,7 +7,7 @@ import requests
 import argparse
 from json2html import *
 ##########################
-api_key="UPmNGzp5HfQwsNY5BFCIuPLFUSPAa5E6"
+api_key="YOUR_API_KEY"
 ##########################
 api_url='https://api.shodan.io/shodan/host/search?key='+api_key+'&query='
 ##########################
